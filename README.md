@@ -1,1 +1,1 @@
-# NodeMCU-based-Smart-Home-using-intranet
+# NodeMCU based Smart Home using intranet
